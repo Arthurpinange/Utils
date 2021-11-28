@@ -31,3 +31,11 @@ executar sempre antes de realizar uma alteração ou criar uma nova branch
 ``` git checkout -b <nome_da_branch> ```
 ####  comando para verificar branch existentes e em qual esta
 ``` git branch ```
+### Adiciona todas as alterações 
+``` git add .```
+verificar se foram adicionadas 
+``` git status ```
+### realiza commit
+``` git commit -m "<comentario>"```
+### realiza o push
+``` git push origin <nome_da_branch>.```
