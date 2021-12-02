@@ -39,3 +39,7 @@ verificar se foram adicionadas
 ``` git commit -m "<comentario>"```
 ### realiza o push
 ``` git push origin <nome_da_branch>.```
+
+
+
+
