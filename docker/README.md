@@ -41,12 +41,18 @@ sudo systemctl status docker
 ```
 Normalmente, os usuários têm várias imagens no próprio sistema. Podemos listar todas elas usando:
 
+```bash
 sudo docker images
+
+```
 A listagem vai ser bem parecida com a lista que você recebe quando você faz uma pesquisa (query).
 
 Depois disso, você pode executar a imagem usando o comando pull e a ID da imagem.
 
-sudo docker run -i -t [image]
+```bash
+sudo docker run [image]
+
+```
 Existem opções que estendem a funcionalidade do comando. Por exemplo, a opção -i faz com que a execução da imagem seja interativa. Já a opção -d faz com que ela aconteça em segundo plano.
 
 Assim que estiver executando uma imagem, podemos terminar a execução usando a combinação de teclas CTRL+D.
