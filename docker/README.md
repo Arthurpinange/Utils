@@ -56,3 +56,10 @@ sudo docker run [image]
 Existem opções que estendem a funcionalidade do comando. Por exemplo, a opção -i faz com que a execução da imagem seja interativa. Já a opção -d faz com que ela aconteça em segundo plano.
 
 Assim que estiver executando uma imagem, podemos terminar a execução usando a combinação de teclas CTRL+D.
+
+### Comando para deleetar containers depois de deletar images
+
+```bash
+docker system prune
+
+```
