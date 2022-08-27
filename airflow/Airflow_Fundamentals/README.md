@@ -32,7 +32,9 @@ Estes scripts devem estar dentro da pasta dags do airflow, para funcionar.
 12. [Troca de dados](./12%20-%20Exchange_data.md)
 13. [Erros](./13%20-%20Erros.md)
 14. [Executor](./14%20-%20Executor.md)
-
+15. [airflow config em pt-br](./artefatos/airflow.cfg)
+16. [instalando o airflow](./Instalando%20o%20Apache%20Airflow.pdf)
+17. [atalizando o apache airflow](./Atualizando%20o%20Apache%20Airflow.pdf)
 ***
 
 Caso encontre alguma observação, erro ou deseje contribuir com algo, me chame. :-)
