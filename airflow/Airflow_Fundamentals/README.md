@@ -35,6 +35,7 @@ Estes scripts devem estar dentro da pasta dags do airflow, para funcionar.
 15. [airflow config em pt-br](./artefatos/airflow.cfg)
 16. [instalando o airflow](./Instalando%20o%20Apache%20Airflow.pdf)
 17. [atalizando o apache airflow](./Atualizando%20o%20Apache%20Airflow.pdf)
+18. [Hooks](./18%20-%20hooks.md)
 ***
 
 Caso encontre alguma observação, erro ou deseje contribuir com algo, me chame. :-)
